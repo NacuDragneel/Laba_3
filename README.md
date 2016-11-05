@@ -1,4 +1,5 @@
 # Laba_3
+Just another repository
 using System;
 using System.Collections.Generic;
 using System.Linq;
